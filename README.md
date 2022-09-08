@@ -22,8 +22,6 @@ Included Built-Ins Our shell has support for the following built-in commands:
 
 Command Definition exit [n] Exit the shell, with an optional exit status, n. env Print the environment. setenv [var][value] Set an environment variable and value. If the variable exists, the value will be updated. unsetenv [var] Remove an environment variable. cd [dir] Change the directory. help [built-in] Read documentation for a built-in. Credits:
 
-All code written by Aregbesola Bright & Oluwafunshoalice
-
-Authors 👤 Whyte_Bryte 👤 Oluwafunshoalice
+All code written and published by Habibah Jibril & Ezekiel Offiong Peter
 
 BonaAhmed & Eazyprofiq @ ALX software engineering programme 2022.
