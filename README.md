@@ -6,7 +6,7 @@ Written with: C language Shell Betty linter General Requirement:
 
 \*All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89 All files should end with a new line A README.md file, at the root of the folder of the project is mandatory Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl Shell should not have any memory leaks No more than 5 functions per file All header files should be include guarded Write a README with the description of the project
 
-Description: Aregbesola Bright & Oluwafunshoalice Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Description: Habibah Jubril and Offiong Peter Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 Installation Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
 
